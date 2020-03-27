@@ -1,4 +1,4 @@
-# Lenovo L380 (20M6) Opencore EFI
+# Lenovo L380 (20M6) Opencore 0.5.6 EFI for Catalina 10.15.4
 
 ## ACPI
 
